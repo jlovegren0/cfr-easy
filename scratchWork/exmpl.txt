@@ -1,0 +1,76 @@
+https://records.tceq.texas.gov/cs/idcplg?IdcService=TCEQ_PERFORM_SEARCH&xIdcProfile=Record&IsExternalSearch=1&sortSearch=false&newSearch=true&accessID=291011&xRecordSeries=1081&xInsightDocumentType=0&xMedia=0&select0=xPrimaryID&input0=4437A&select1=&input1=&select2=&input2=&select3=&input3=&operator=AND&ftx=
+
+https://records.tceq.texas.gov/cs/idcplg?
+	IdcService=TCEQ_PERFORM_SEARCH	&
+	xIdcProfile=Record	&
+	IsExternalSearch=1	&
+	sortSearch=false	&
+	newSearch=true	&
+	accessID=291011	&
+	xRecordSeries=1081	&
+	xInsightDocumentType=0	&
+	xMedia=0	&
+	select0=xPrimaryID	&
+	input0=4437A	&
+	select1=	&
+	input1=	&
+	select2=	&
+	input2=	&
+	select3=	&
+	input3=	&
+	operator=AND	&
+	ftx=
+
+https://records.tceq.texas.gov/cs/idcplg?IdcService=TCEQ_PERFORM_SEARCH&QueryText=%28dSecurityGroup+%3cmatches%3e+%60Public%60%3cAND%3exRecordSeries%3cmatches%3e%601081%60%3cAND%3e%28xPrimaryID+%3csubstring%3e+%604437A%60%29%29++%3cAND%3e++xMedia+%3cMatches%3e+%601%60&SortField=dInDate&SortOrder=Desc&ResultCount=20&SearchEngineName=ORACLETEXTSEARCH&SearchQueryFormat=UNIVERSAL&searchFormType=queryBuilder&listTemplateId=SearchResultsHeadline&SearchProviders=tceq4avrwccecmp_4444&QueryTextBeforeQueryFilter=dSecurityGroup%20%3cmatches%3e%20%60Public%60%3cAND%3exRecordSeries%3cmatches%3e%601081%60%3cAND%3e%28xPrimaryID%20%3csubstring%3e%20%604437A%60%29&QueryFilterUsed=true&QueryFilter=xMedia%20%3cMatches%3e%20%601%60&FilterFields=xMedia&SortSpec=sdxRecordSeries%20asc%2csdxPrimaryID%20asc%2csdxSecondaryID%20asc%2csdxInsightDocumentType%20asc%2csddDocTitle%20asc%2cxBeginDate%20asc&idcToken=&SearchEngineName=ORACLETEXTSEARCH&&IsExternalSearch=1&PageNumber=2&StartRow=21&EndRow=25&columnsString=dDocName,xRecordSeries,xPrimaryID,xSecondaryID,xInsightDocumentType,dDocTitle,xBeginDate,xEndDate,xVolumeNumber,xRegEntName,xMedia,xComments,dSecurityGroup&accessID=291011&newSearch=0
+
+https://records.tceq.texas.gov/cs/idcplg?
+	IdcService=TCEQ_PERFORM_SEARCH	&
+	QueryText=%28dSecurityGroup+%3cmatches%3e+%60Public%60%3cAND%3exRecordSeries%3cmatches%3e%601081%60%3cAND%3e%28xPrimaryID+%3csubstring%3e+%604437A%60%29%29++%3cAND%3e++xMedia+%3cMatches%3e+%601%60	&
+	SortField=dInDate	&
+	SortOrder=Desc	&
+	ResultCount=20	&
+	SearchEngineName=ORACLETEXTSEARCH	&
+	SearchQueryFormat=UNIVERSAL	&
+	searchFormType=queryBuilder	&
+	listTemplateId=SearchResultsHeadline	&
+	SearchProviders=tceq4avrwccecmp_4444	&
+	QueryTextBeforeQueryFilter=dSecurityGroup%20%3cmatches%3e%20%60Public%60%3cAND%3exRecordSeries%3cmatches%3e%601081%60%3cAND%3e%28xPrimaryID%20%3csubstring%3e%20%604437A%60%29	&
+	QueryFilterUsed=true	&
+	QueryFilter=xMedia%20%3cMatches%3e%20%601%60	&
+	FilterFields=xMedia	&
+	SortSpec=sdxRecordSeries%20asc%2csdxPrimaryID%20asc%2csdxSecondaryID%20asc%2csdxInsightDocumentType%20asc%2csddDocTitle%20asc%2cxBeginDate%20asc	&
+	idcToken=	&
+	SearchEngineName=ORACLETEXTSEARCH	&&
+	IsExternalSearch=1	&
+	PageNumber=2	&
+	StartRow=21	&
+	EndRow=25	&
+	columnsString=dDocName,xRecordSeries,xPrimaryID,xSecondaryID,xInsightDocumentType,dDocTitle,xBeginDate,xEndDate,xVolumeNumber,xRegEntName,xMedia,xComments,dSecurityGroup	&
+	accessID=291011	&
+	newSearch=0
+
+https://records.tceq.texas.gov/cs/idcplg?
+	IdcService=TCEQ_PERFORM_SEARCH	&
+	QueryText=(dSecurityGroup+<matches>+`Public`<AND>xRecordSeries<matches>`1081`<AND>(xPrimaryID+<substring>+`4437A`))++<AND>++xMedia+<Matches>+`1`	&
+	SortField=dInDate	&
+	SortOrder=Desc	&
+	ResultCount=20	&
+	SearchEngineName=ORACLETEXTSEARCH	&
+	SearchQueryFormat=UNIVERSAL	&
+	searchFormType=queryBuilder	&
+	listTemplateId=SearchResultsHeadline	&
+	SearchProviders=tceq4avrwccecmp_4444	&
+	QueryTextBeforeQueryFilter=dSecurityGroup <matches> `Public`<AND>xRecordSeries<matches>`1081`<AND>(xPrimaryID <substring> `4437A`)	&
+	QueryFilterUsed=true	&
+	QueryFilter=xMedia <Matches> `1`	&
+	FilterFields=xMedia	&
+	SortSpec=sdxRecordSeries asc,sdxPrimaryID asc,sdxSecondaryID asc,sdxInsightDocumentType asc,sddDocTitle asc,xBeginDate asc	&
+	idcToken=	&
+	SearchEngineName=ORACLETEXTSEARCH	&&
+	IsExternalSearch=1	&
+	PageNumber=2	&
+	StartRow=21	&
+	EndRow=25	&
+	columnsString=dDocName,xRecordSeries,xPrimaryID,xSecondaryID,xInsightDocumentType,dDocTitle,xBeginDate,xEndDate,xVolumeNumber,xRegEntName,xMedia,xComments,dSecurityGroup	&
+	accessID=291011	&
+	newSearch=0
