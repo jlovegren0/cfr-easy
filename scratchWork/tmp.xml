@@ -1,0 +1,791 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <title>
+    TCEQ - NSR, TV and CapTrade Searchs
+  </title>
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type" />
+  <meta name="DC.Title" content="TCEQ NSR, TV and CapTrade Searchs" />
+  <meta name="DC.Create" content="Texas Commission on Environmental Quality" />
+  <meta name="DC.Date" content="20071204" />
+  <meta name="DC.Format.MIME" content="text/html" />
+  <meta name="DC.Format.SysReq" content="Requires an Internet browser" />
+  <meta name="DC.Identifier" content="http://www.tceq.texas.gov/" />
+  <meta name="DC.Subject" content="Conservation of natural resources." />
+  <meta name="DC.Subject" content="Pollution." />
+  <meta name="DC.Subject" content="Environmental Protection" />
+  <meta name="DC.Subject" content="New Source Review Air Permits" />
+  <meta name="DC.Subject" content="Title V Federal Operating Permits" />  
+  <meta name="DC.Subject" content="Emissions Banking and Trading Program" />    
+  <meta name="DC.SubjectKeyword" content="TCEQ" />
+  <meta name="DC.SubjectKeyword" content="TNRCC" />
+  <meta name="DC.SubjectKeyword" content="Texas State Agencies" />
+  <meta name="DC.SubjectKeyword" content="Texas Commission on Environmental Quality" />
+  <meta name="DC.SubjectKeyword" content="resources" />
+  <meta name="DC.SubjectKeyword" content="New Source Review Air Permits" />
+  <meta name="DC.SubjectKeyword" content="Title V Federal Operating Permits" />
+  <meta name="DC.SubjectKeyword" content="Emissions Banking and Trading Program" />    
+  <meta name="DC.Publisher" content="Texas Commission on Environmental Quality" />
+  <meta name="title" content="TCEQ NSR, TV and CapTrade Searchs" />
+  <meta name="DC.Language" content="english" />
+  <meta name="DC.Relation" content="http://www.tceq.texas.gov/" />
+  <meta name="DC.Coverage" content="Texas" />
+  <meta name="DC.Type" content="web application" />
+  <meta name="description" content="TCEQ NSR, TV and CapTrade Searchs, allowing searches of the Water Quality permits data" />
+  <meta name="keywords" content="TCEQ;TNRCC;Texas State Agencies;Texas Commission on Environmental Quality;resources" />
+  <meta name="author" content="Texas Commission on Environmental Quality" />
+  
+    
+      <script type="text/javascript" src="/Dynatrace_ICAjoqx_7000100111011.js" data-dtconfig="agentUri=/Dynatrace_ICAjoqx_7000100111011.js|rid=RID_796260503|rpid=1495510080|lastModification=1544149363399|lab=1|reportUrl=dynaTraceMonitor|app=AirPermits|domain=texas.gov"></script><link type="text/css" rel="stylesheet" href="/airperm/blocks/header.css" />
+      <style type="text/css">
+<!--
+	/* Page Header/Footer attributes */
+	hr.header {color: #004477;
+		text-align: left;
+		width: 640px} 
+
+	hr.footer {color: #004477;
+		text-align: center ;
+		width: 640px} 
+			
+	/* Menu attributes */
+	hr.menu {color: #000099;
+		text-align: center} 
+
+	div.menulabel {color: #000000;
+		font-family: sans-serif, tahoma;
+		font-weight: bold ;
+		font-size: 10pt ;
+		vertical-align: baseline ;
+		text-align: left} 
+	
+	/* Form attributes */
+	table.formstyle {background: #BBBBBB;
+		border-top: 2px solid #DDDDDD;
+		border-left: 2px solid #DDDDDD;
+		border-right: 4px solid #444444;
+		border-bottom: 4px solid #444444;
+		padding: 2px} 
+
+	td.formstyle {background: #BBBBBB;
+		border: none;
+		border-top: 0px;
+		border-left: 0px;
+		border-right: 0px;
+		border-bottom: 0px;
+		padding: 2px} 
+
+	td.formtitle {background: #000099;
+		height: 20px;
+		border: none;
+		border-top: 0px;
+		border-left: 0px;
+		border-right: 0px;
+		border-bottom: 0px;
+		padding: 2px} 
+	
+	div.formtitle {color: #FFFFFF;
+		font-family: sans-serif, arial;
+		font-weight: bold;
+		font-size: 10pt;
+		text-align: left} 
+
+	td.formlabel {height: 100px;
+		vertical-align: middle} 
+			
+	div.formlabel {color: #000000;
+		font-family: sans-serif, arial;
+		font-weight: normal;
+		font-size: 10pt} 
+	
+	div.formfield {color: #000099;
+		font-family: sans-serif, arial;
+		font-weight: bold;
+		font-size: 10pt} 
+		
+	div. footnotefield {font-family: sans-serif, arial; 
+		font-weight: normal; 
+		font-size: 10pt; 
+		color: ##006666}
+	
+
+	div.reporthead1 {color: #000000;
+		text-align: center} 
+	/* Main Content Header/Footer attributes */
+	div.listhead1 {color: #004477;
+		font-family: sans-serif, tahoma;
+		font-weight: bold ;
+		font-size: 30pt ;
+		vertical-align: baseline ;
+		text-align: center} 
+
+	div.listhead2 {color: #004477;
+		font-family: sans-serif, tahoma;
+		font-weight: bold ;
+		font-size: 24pt ;
+		vertical-align: baseline ;
+		text-align: center} 
+
+	div.listhead3 {color: #004477;
+		font-family: sans-serif, tahoma;
+		font-weight: bold ;
+		font-size: 16pt ;
+		vertical-align: baseline ;
+		text-align: center} 
+		
+	div.listhead4 {color: #004477;
+		font-family: sans-serif, tahoma;
+		font-weight: bold ;
+		font-size: 14pt ;
+		vertical-align: baseline ;
+		text-align: left} 
+		
+	div.listhead5 {color: #004477;
+		font-family: sans-serif, tahoma;
+		font-weight: bold ;
+		font-size: 10pt ;
+		vertical-align: baseline ;
+		text-align: left} 
+		
+	div.listfoot1 {color: #000000 ;
+		width: 500px ;
+		font-family: sans-serif, tahoma ;
+		font-weight: normal ;
+		font-size: 8pt ;
+		vertical-align: baseline ;
+		text-align: left} 
+			
+	div.listfoot2 {color: #3366FF ;
+		width: 500px ;
+		font-family: sans-serif, arial ;
+		font-weight: normal ;
+		font-size: 8pt ;
+		vertical-align: baseline ;
+		text-align: left} 	
+
+	div.text1 {color: #004477 ;
+		font-family: Arial, Helvetica ;
+		font-weight: bold ;
+		font-size:11pt ;
+		text-align: left} 
+			
+	div.text2 {color: #000000 ;
+		font-family: helvetica, sans-serif ;
+		font-weight: normal ;
+		font-size:10pt ;
+		text-align: left} 
+		
+	
+	/* Document Content attributes */
+	table.navbar {background: #FFFFFF;
+		width: 95px;
+		padding: 0px} 
+
+	td.navbar {background: #FFFFFF;
+		width: 95px;
+		padding: 0px} 
+		
+	table.pagecontent {background: #FFFFFF;
+		text-align: center;
+		width: 500px;
+		padding: 0px} 
+
+	td.pagecontent {background: #FFFFFF;
+		width: 500px} 
+
+	/* Display attributes */
+	table.display1 {background: #FFFFFF;
+	font-size: 100%;}
+	
+	td.display1 {background: #CDFFCD;
+		color: #000000;
+		text-align: left;
+		font-family: helvetica, sans-serif;
+		font-size: 10pt}
+
+
+	td.display2 {background: #CDCDFF;
+		color: #000000;
+		text-align: left;
+		font-family: helvetica, sans-serif;
+		font-size: 10pt}
+
+	td.displayhead1 {background: #000099;
+		color: #FFFFFF;
+		font-family: sans-serif, arial;
+		font-weight: bold;
+		font-size: 10pt}
+		
+	td.textformat {
+		color: #FFFFFF;
+		font-family: sans-serif, arial;
+		font-size: 10pt}
+	
+	td.textformat2 {
+		color: #000000;
+		font-family: arial, sans-serif;
+		font-size: 9pt}
+	td.textformat3 {font-weight: bold;
+		color: #000000;
+		font-family: arial, sans-serif;
+		font-size: 9pt}
+	td.textformat4 {font-weight: bold;
+		color: #000047;
+		font-family: arial, sans-serif;
+		font-size: 10pt}
+	th.displayhead {background: #FFFFFF;
+		text-align: left;
+		font-family: sans-serif, arial;
+		font-weight: bold;
+		font-size: 10pt}
+	th.displayhead1 {background: #000099;
+		color:#FFFFFF;
+		text-align: left;
+		font-family: sans-serif, arial;
+		font-weight: bold;
+		font-size: 10pt}		
+	
+     P.breakhere {page-break-before: always}
+ 	P.breakafter {page-break-after: always}
+-->
+</style>  
+    
+  
+</head>
+
+<body>
+  
+    <a href="#skip2main_area" id="skiptomain" accesskey="1" class="skiptotext">Skip to main content</a>
+    <div id="wrapper">
+      <div id="header">
+        <h1 id="header-text">Texas Commission on Environmental Quality</h1>
+        <div id="questionscomments">
+          
+            <a href="index.cfm?fuseaction=main.contact_us" target="_blank">Questions&nbsp;or&nbsp;Comments &gt;&gt;</a>
+          
+        </div> 
+        
+        <div id="topnav" class="clear">
+          <ul>
+          
+            <li>
+              <a href="http://www.tceq.texas.gov" title="Go to TCEQ Web Page">TCEQ Home</a>
+            </li>
+            
+              <li>
+                <a href="http://www15.tceq.texas.gov/crpub/" title="Go to Central Registry Search Home Page">CR Query</a>
+              </li>
+              
+                <li>
+                  <a href="index.cfm?fuseaction=main.welcome" title="Go to Air Permits Search Home Page">Search Options</a>
+                </li>
+              
+              
+              
+              
+			  
+          
+        </ul>
+      </div>
+    </div>
+    
+    <div id="content">
+      <a id="skip2main_area" name="skip2main_area"></a>
+  
+ 
+
+ 
+
+ </div>
+</td>
+</tr>
+</table>
+
+ 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="54%">
+    
+
+
+
+
+  
+
+
+
+ 
+	
+	<a href="index.cfm?fuseaction=tv.start">Go To:&nbsp;&nbsp;Title V Federal Operating Permits </a>
+  
+</p>
+
+
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+      
+
+ 
+
+                
+		 
+
+
+
+
+		
+
+
+
+
+
+
+
+    
+
+
+
+
+
+	
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+ 
+
+
+	
+
+
+
+
+
+
+
+ 
+
+    
+
+
+
+<div class="midfont">
+
+	<a href="index.cfm?fuseaction=airpermits.imshelp">Online Help</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	<a href="index.cfm?fuseaction=airpermits.start">Search Again</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+Last Updated Date : 12/08/2018 
+<br /><br />
+<h2> Air Permitting Actions for: </h2>
+<br />
+ 
+	 project number: 211610 <br />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	 program area: NSR <br />
+ 
+	
+	
+
+ 
+ 
+	
+	
+ 
+	
+	 project status: ALL <br />
+ 
+	
+	 order by: proj.proj_id <br />
+ 
+
+
+   
+
+
+	  Click on the Project Number to see details about that permit application.
+		<table class="display1" border="1">
+			<tr>
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#prog_area">Program Area</a>  </th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#addn_num_txt">Permit Number </a> </th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#addn_id_typ_txt">Permit Type</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#pmt_status">Permit Status</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#proj_id">Project Number</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#cn_issue_to_txt">Customer Name</a></th>  
+ 				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#princ_legal_name">Legal Name</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#cn_num_txt">CN Number</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#proj_typ_txt">Action type</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#rcv_dt">TCEQ Received Date </a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#proj_cmp_dt">Project Complete Date </a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#renewal_dt">Renewal Date</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#proj_status_txt">Action Status</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#proj_adm_name">Project Name</a></th>  
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#rn_ref_num_txt">Regulated Entity</a></th> 
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#phys_loc">Physical Location</a></th> 
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#region_name">Region Name</a></th>
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#cnty_name">County Name </a></th>
+				<th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#near_city">Near City Name </a> </th>
+        <th class="displayhead"><a href="index.cfm?fuseaction=airpermits.imshelp#near_city">Rules </a> </th>
+				 
+			</tr>	       
+
+		
+				 
+ 		
+			
+			
+			
+				
+				
+		  
+			
+		  
+			
+
+      
+
+			
+			
+			
+			
+			<tr>
+			  
+				<td>NSR</td> 
+				
+				<td>95754</td> 
+				
+				<td>CONSTRUCT</td> 
+				
+				<td>EFFECTIVE</td> 
+				
+				<td><a href="index.cfm?fuseaction=airpermits.project_report&amp;proj_id=211610&amp;addn_num_txt=95754">211610 </a></td> 
+				
+				<td>INTERCONTINENTAL TERMINALS COMPANY LLC</td> 
+				
+				<td>
+					
+						Intercontinental Terminals Company LLC
+					
+				</td>         
+				
+				<td>
+					
+						CN601470222
+					
+				</td> 
+				
+				<td>AMEND</td> 
+				
+				<td>
+					
+						05/30/14
+					
+				</td>
+				
+				<td>
+										
+						01/26/15
+					
+				</td>	
+				
+				<td>		
+					
+						08/24/22
+					
+				</td>
+				
+				<td>COMPLETE</td> 
+				
+				<td>BULK LIQUID STORAGE TERMINAL</td> 
+				
+				<td>
+					
+						RN106119175
+												
+				</td> 
+				
+				<td>1030 ETHYL RD </td>
+				
+				<td>REGION 12 - HOUSTON </td>
+				
+				<td>HARRIS </td>
+				
+				<td>PASADENA </td>
+        
+				<td> </td>
+			</tr>
+	 	
+	</table>
+
+
+
+
+
+
+ 
+</div>
+
+
+
+
+	
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+  </div>
+	<div id="footer">
+		<p>
+			<a href="http://www.tceq.texas.gov/help">Site Help</a> |
+			<a href="http://www.tceq.texas.gov/help/policies/disclaimer_policy.html">Disclaimer</a> |
+			<a href="http://www.tceq.texas.gov/help/policies/index.html">Web Policies</a> |
+			<a href="http://www.tceq.texas.gov/help/policies/accessibility_policy.html">Accessibility</a> |
+			<a href="http://www.tceq.texas.gov/agency/compact.html">Our Compact with Texans</a> |
+			<a href="http://www.tceq.texas.gov/response/security/index.html">TCEQ Homeland Security</a> |
+			<a href="http://www.tceq.texas.gov/about/directory/">Contact Us</a>
+			<br />
+			Statewide Links:
+			<a href="http://www.texas.gov">Texas.gov</a> |
+			<a href="http://www.texashomelandsecurity.org/">Texas Homeland Security</a> |
+			<a href="http://www2.tsl.state.tx.us/trail/">TRAIL Statewide Archive</a> |
+			<a href="http://veterans.portal.texas.gov/en/Pages/default.aspx">Texas Veterans Portal</a>
+		</p>
+		<p>
+      <br />
+  		&copy; 2002-2018 Texas Commission on Environmental Quality
+    </p>
+	</div>
+
+
+
+</div>
+</body>
+</html>
