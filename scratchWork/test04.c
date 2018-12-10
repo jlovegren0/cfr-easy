@@ -73,8 +73,8 @@ int main(int argc, char **argv)
 	char* urlString = "http://www2.tceq.texas.gov/airperm/index.cfm";
 	char* postData = "RequestTimeout=3000&"
 	"fuseaction=searchprojects&"
-	"loc_cnty_name=0&"
-	"proj_id=211610&"
+	"loc_cnty_name=HARRIS&"
+	"proj_id=&"
 	"tnrcc_region_cd=0&"
 	"addn_num_txt=&"
 	"addn_id_typ_txt=&"
